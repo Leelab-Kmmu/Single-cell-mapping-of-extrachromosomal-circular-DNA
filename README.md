@@ -1,6 +1,6 @@
 # Single-cell mapping of extrachromosomal circular DNA architecture and evolution in cutaneous squamous cell carcinoma
 
-![Image text](https://github.com/Leelab-Kmmu/Single-cell-mapping-of-extrachromosomal-circular-DNA/edit/main/workflow.png)
+![Image text](https://github.com/Leelab-Kmmu/Single-cell-mapping-of-extrachromosomal-circular-DNA/main/workflow.png)
 
 ## This project provides users with the following functionalities:
 Process Cell Ranger results of scATAC data into an eccDNA object(Seurat object), and complete the processes of dimensionality reduction, clustering, gene activity calculation, and cell annotation.

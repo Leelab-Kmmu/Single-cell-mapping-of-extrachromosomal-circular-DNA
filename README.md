@@ -15,3 +15,4 @@
 * eccDNA_formation.R: detects eccDNA information for each single cell.
 * Figure.R: generates figures; requires the above three scripts to be run beforehand.
 
+## lijie@kmmu.edu.cn
